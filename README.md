@@ -1,0 +1,2 @@
+# TUPLAS
+ Curso em Video PYTHON TUPLAS
